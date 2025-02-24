@@ -11,3 +11,5 @@ X
 (tests/reality-divergence-futures.test.ts,1/c/1c53e58fa61ccda92cfb1e217b4c32975f61263f
 ^
 .contracts/multiversal-scarcity-management.clar,1/6/16eb9fb41520a0c36501e4f949c4d5a49ffa045a
+]
+-tests/multiversal-scarcity-management.test.ts,0/7/0726714c5fd4cc4ab2ffcb2a4ec4833efad80a6f

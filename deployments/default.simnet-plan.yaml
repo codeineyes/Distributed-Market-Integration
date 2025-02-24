@@ -55,6 +55,11 @@ plan:
             path: contracts/inter-universal-value-exchange.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: multiversal-scarcity-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/multiversal-scarcity-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: reality-divergence-futures
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/reality-divergence-futures.clar
