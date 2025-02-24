@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.existential-risk-hedging]
+path = 'contracts/existential-risk-hedging.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.inter-universal-value-exchange]
 path = 'contracts/inter-universal-value-exchange.clar'
 clarity_version = 2

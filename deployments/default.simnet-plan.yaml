@@ -50,6 +50,11 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: existential-risk-hedging
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/existential-risk-hedging.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: inter-universal-value-exchange
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/inter-universal-value-exchange.clar
