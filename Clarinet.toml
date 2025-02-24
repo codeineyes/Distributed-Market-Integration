@@ -10,6 +10,11 @@ path = 'contracts/inter-universal-value-exchange.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multiversal-scarcity-management]
+path = 'contracts/multiversal-scarcity-management.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reality-divergence-futures]
 path = 'contracts/reality-divergence-futures.clar'
 clarity_version = 2
